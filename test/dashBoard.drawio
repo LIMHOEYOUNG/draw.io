@@ -122,20 +122,23 @@
         <mxCell id="2YxlZd93tx3mGEonH2gu-43" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;휴먼 검색 요청 창&lt;/span&gt;&lt;br&gt;열림" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;strokeColor=default;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1158" y="70" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2YxlZd93tx3mGEonH2gu-45" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2YxlZd93tx3mGEonH2gu-45" value="1Week 버튼클릭" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1158" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2YxlZd93tx3mGEonH2gu-46" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2YxlZd93tx3mGEonH2gu-46" value="시작시간 클릭" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1301" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2YxlZd93tx3mGEonH2gu-47" value="1Day 버튼클릭" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1016" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2YxlZd93tx3mGEonH2gu-50" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2YxlZd93tx3mGEonH2gu-50" value="종료시간 클릭" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1440" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2YxlZd93tx3mGEonH2gu-51" value="1Hour 버튼클릭" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxlZd93tx3mGEonH2gu-53" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
